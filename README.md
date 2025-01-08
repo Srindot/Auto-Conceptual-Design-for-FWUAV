@@ -18,5 +18,5 @@ The data used for training the neural network is sourced from the PTERA software
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone <repository_URL>
+   git clone https://github.com/Srindot/Auto-Conceptual-Design-for-FWUAV.git
 
